@@ -1,0 +1,16 @@
+# Light-touch fork: upstream code untouched
+_archive/
+source/
+wake-up-word/
+data/
+*.py
+*.ui
+*.qrc
+*.pyc
+*.png
+*.svg
+*.wav
+*.mp3
+*.pdf
+*.txt
+LICENSE
